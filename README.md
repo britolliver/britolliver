@@ -1,7 +1,7 @@
 # 💫About Me :
-:woman_technologist: I am currently working on Javascript30, Wordpress, and freeCodeCamp's Javascript Certification. 
+:woman_technologist: I am currently working on ServiceNow Development, Javascript/HTML/CSS and Java. 
 
-:smile: I am interested in learning ReactJS, sharpening my CSS skills and creating a personal blog.
+:smile: I am interested in learning how to develop ServiceNow projects in VSCode, creating a project I am passionate about, and using the CLI to sharpen my software engineering skills. I would also like to build ServiceNow projects and connect them to GitHub.
 
 :envelope_with_arrow: I can be reached via [LinkedIn](https://www.linkedin.com/in/britolliver).
 
